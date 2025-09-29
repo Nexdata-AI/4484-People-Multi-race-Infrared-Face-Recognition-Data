@@ -3,7 +3,7 @@
 ## Description
 4,484 people multi-race – infrared face recognition data. The collecting scenes of this dataset include indoor scenes and outdoor scenes. The data includes male and female. The race distribution includes Asian, Black, Caucasian and Brown people. The age distribution ranges from child to the elderly, the young people and the middle aged are the majorities. The collecting device is DV-DH4,044S305AD. The data diversity includes multiple age periods, multiple facial postures, multiple scenes. The data can be used for tasks such as infrared face recognition. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1490?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1490?source=Github
 
 ## Specifications
 ###  Data size
